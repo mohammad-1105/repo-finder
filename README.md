@@ -26,3 +26,6 @@ pnpm run dev
 
 This app is hosted in vercel visit the link below to see the app in action.
 https://repo-finder-neon.vercel.app
+
+### project URL 
+https://roadmap.sh/projects/github-random-repo
